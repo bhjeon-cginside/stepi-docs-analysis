@@ -1,0 +1,81 @@
+{
+  "sample_id": "D008_P0001",
+  "sample_image": "/mnt/data/bhjeon/doc_platform/docs/assets/pdf_captures_multi/08_8. 과학기술정책 Brief_p1.png",
+  "output_dir": "/mnt/data/bhjeon/stepi-ocr-pipeline/outputs_sample/ocr_3panel_d008",
+  "panel_schema": [
+    {
+      "panel": 1,
+      "name": "original",
+      "label": "원본 샘플",
+      "path": "assets/original_d008_p1.png"
+    },
+    {
+      "panel": 2,
+      "name": "detection_or_layout",
+      "label": "Detection/Layout overlay"
+    },
+    {
+      "panel": 3,
+      "name": "converted_document",
+      "label": "Markdown/문서 변환 결과"
+    }
+  ],
+  "cards": [
+    {
+      "engine": "PaddleOCR OCR --lang korean",
+      "status": "OK",
+      "fit": "가벼운 로컬 OCR baseline. 텍스트 line 단위 비교에 적합.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/paddleocr_korean_overlay.png",
+      "markdown": "assets/paddleocr_korean/result.md"
+    },
+    {
+      "engine": "PaddleOCR PP-StructureV3",
+      "status": "OK",
+      "fit": "레이아웃/블록 overlay와 docx/md export 기준 비교에 적합. 한국어 텍스트 인식은 약함.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/paddleocr_ppstructurev3_layout_order.png",
+      "markdown": "assets/paddleocr_ppstructurev3/result.md"
+    },
+    {
+      "engine": "MinerU pipeline OCR --lang korean",
+      "status": "OK",
+      "fit": "문서 파서 lane. Markdown/content-list/layout PDF를 함께 제공.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/mineru_layout_overlay.png",
+      "markdown": "assets/mineru/result.md"
+    },
+    {
+      "engine": "Unlimited-OCR local GPU",
+      "status": "OK",
+      "fit": "샘플 기준 한국어 OCR 품질 최상. detection bbox + Markdown 비교에 적합.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/unlimited_ocr_boxes.jpg",
+      "markdown": "assets/unlimited_ocr/result.md"
+    },
+    {
+      "engine": "OpenDataLoader PDF",
+      "status": "OK (source PDF)",
+      "fit": "PDF parser lane. PNG OCR가 아니라 원본 PDF 구조/bbox를 sample PNG에 투영.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/opendataloader_pdf_boxes.png",
+      "markdown": "assets/opendataloader_pdf/result.md"
+    },
+    {
+      "engine": "paddle-gemma-orchestrator + GPT-5.5",
+      "status": "OK (orchestration proof)",
+      "fit": "VLM 분류 + PaddleX + VLM fallback ROI. STEPI 전용 domain pack 필요.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/paddle_gemma_vlm_fallback_overlay.jpg",
+      "markdown": "assets/paddle_gemma_orchestrator/result.md"
+    },
+    {
+      "engine": "document-processor",
+      "status": "Partial",
+      "fit": "의존성은 해결됐지만 현재 sample semantic blocks=0. 비교 후보에서는 보류.",
+      "original": "assets/original_d008_p1.png",
+      "overlay": "assets/original_d008_p1.png",
+      "markdown": "assets/document_processor/result.md"
+    }
+  ]
+}
