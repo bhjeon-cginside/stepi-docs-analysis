@@ -1,0 +1,252 @@
+{
+  "filesystem_pdf_files": 3859,
+  "pdfinfo_success": 3859,
+  "pdfinfo_failed": 0,
+  "total_pdf_pages_success_only": 566793,
+  "mean_pages_per_pdf": 146.88,
+  "max_pages_pdf": {
+    "path": "40년 기관 생산 발간물/1. 정책연구/2002/[정책연구-490]2002년도 한국의 기술혁신조사 - 제조업.pdf",
+    "scope": "original_tar_extracted",
+    "category": "1. 정책연구",
+    "year": "2002",
+    "size_bytes": 29209063,
+    "pages": 1316,
+    "ok": true,
+    "returncode": 0,
+    "log": ""
+  },
+  "elapsed_sec": 4.07,
+  "by_category": {
+    "1. 정책연구": {
+      "files": 1111,
+      "pages": 248421
+    },
+    "10. STEPI Outlook": {
+      "files": 8,
+      "pages": 261
+    },
+    "11. STI Policy Review": {
+      "files": 14,
+      "pages": 751
+    },
+    "12. 과학기술정책(1991~2017)": {
+      "files": 232,
+      "pages": 22780
+    },
+    "13. 동향과 이슈": {
+      "files": 139,
+      "pages": 2770
+    },
+    "14. Entrepreneurship Korea": {
+      "files": 7,
+      "pages": 197
+    },
+    "15. Working Paper": {
+      "files": 31,
+      "pages": 824
+    },
+    "16. SPREC Insight": {
+      "files": 26,
+      "pages": 854
+    },
+    "17. 우주정책 글로벌이슈리포트": {
+      "files": 30,
+      "pages": 772
+    },
+    "18. (학술지) 과학기술정책": {
+      "files": 7,
+      "pages": 1523
+    },
+    "19. (학술지) STEPI Policy Review": {
+      "files": 123,
+      "pages": 2410
+    },
+    "2. 기초연구": {
+      "files": 382,
+      "pages": 82468
+    },
+    "3. 수시연구": {
+      "files": 270,
+      "pages": 28425
+    },
+    "4. 기타연구": {
+      "files": 78,
+      "pages": 6332
+    },
+    "5. 수탁연구": {
+      "files": 874,
+      "pages": 144851
+    },
+    "6. 예비타당성조사": {
+      "files": 37,
+      "pages": 7879
+    },
+    "7. STEPI Insight": {
+      "files": 360,
+      "pages": 12599
+    },
+    "8. 과학기술정책 Brief": {
+      "files": 67,
+      "pages": 275
+    },
+    "9. Future Horizon+": {
+      "files": 63,
+      "pages": 2401
+    }
+  },
+  "by_year": {
+    "1989": {
+      "files": 8,
+      "pages": 2225
+    },
+    "1990": {
+      "files": 20,
+      "pages": 5818
+    },
+    "1991": {
+      "files": 33,
+      "pages": 3800
+    },
+    "1992": {
+      "files": 49,
+      "pages": 4225
+    },
+    "1993": {
+      "files": 24,
+      "pages": 3483
+    },
+    "1994": {
+      "files": 28,
+      "pages": 5589
+    },
+    "1995": {
+      "files": 75,
+      "pages": 15523
+    },
+    "1996": {
+      "files": 50,
+      "pages": 8961
+    },
+    "1997": {
+      "files": 71,
+      "pages": 12877
+    },
+    "1998": {
+      "files": 63,
+      "pages": 9897
+    },
+    "1999": {
+      "files": 49,
+      "pages": 8051
+    },
+    "2000": {
+      "files": 102,
+      "pages": 14534
+    },
+    "2001": {
+      "files": 110,
+      "pages": 13042
+    },
+    "2002": {
+      "files": 85,
+      "pages": 13227
+    },
+    "2003": {
+      "files": 70,
+      "pages": 9130
+    },
+    "2004": {
+      "files": 78,
+      "pages": 11027
+    },
+    "2005": {
+      "files": 66,
+      "pages": 12985
+    },
+    "2006": {
+      "files": 134,
+      "pages": 19267
+    },
+    "2007": {
+      "files": 202,
+      "pages": 23605
+    },
+    "2008": {
+      "files": 126,
+      "pages": 19204
+    },
+    "2009": {
+      "files": 118,
+      "pages": 17054
+    },
+    "2010": {
+      "files": 205,
+      "pages": 25809
+    },
+    "2011": {
+      "files": 119,
+      "pages": 15878
+    },
+    "2012": {
+      "files": 122,
+      "pages": 16197
+    },
+    "2013": {
+      "files": 152,
+      "pages": 20934
+    },
+    "2014": {
+      "files": 128,
+      "pages": 15697
+    },
+    "2015": {
+      "files": 126,
+      "pages": 17287
+    },
+    "2016": {
+      "files": 120,
+      "pages": 16212
+    },
+    "2017": {
+      "files": 138,
+      "pages": 17299
+    },
+    "2018": {
+      "files": 118,
+      "pages": 20531
+    },
+    "2019": {
+      "files": 148,
+      "pages": 26903
+    },
+    "2020": {
+      "files": 139,
+      "pages": 24061
+    },
+    "2021": {
+      "files": 139,
+      "pages": 26265
+    },
+    "2022": {
+      "files": 153,
+      "pages": 22895
+    },
+    "2023": {
+      "files": 164,
+      "pages": 25446
+    },
+    "2024": {
+      "files": 178,
+      "pages": 23109
+    },
+    "2025": {
+      "files": 128,
+      "pages": 18227
+    },
+    "2026": {
+      "files": 21,
+      "pages": 519
+    }
+  },
+  "failures_sample": []
+}

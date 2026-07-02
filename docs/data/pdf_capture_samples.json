@@ -1,0 +1,1470 @@
+[
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "1. 정책연구/1989/[정책연구-4]중국의 과학기술정책.pdf",
+    "full_path": "40년 기관 생산 발간물/1. 정책연구/1989/[정책연구-4]중국의 과학기술정책.pdf",
+    "source_archive": "",
+    "category": "1. 정책연구",
+    "year": "1989",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 10464580,
+    "size_human": "10.0MB",
+    "pages": 309,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2001,
+      "nonspace_chars": 943,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "2. 기초연구/1995/[기초연구-3]일본의 과학기술체제와 정책.pdf",
+    "full_path": "40년 기관 생산 발간물/2. 기초연구/1995/[기초연구-3]일본의 과학기술체제와 정책.pdf",
+    "source_archive": "",
+    "category": "2. 기초연구",
+    "year": "1995",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 2840192,
+    "size_human": "2.7MB",
+    "pages": 99,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2245,
+      "nonspace_chars": 854,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "3. 수시연구/1997/[수시연구-1]APEC의 산업과학기술 관련활동.pdf",
+    "full_path": "40년 기관 생산 발간물/3. 수시연구/1997/[수시연구-1]APEC의 산업과학기술 관련활동.pdf",
+    "source_archive": "",
+    "category": "3. 수시연구",
+    "year": "1997",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 4710512,
+    "size_human": "4.5MB",
+    "pages": 185,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 3310,
+      "nonspace_chars": 2066,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "4. 기타연구/2005/[기타연구-2]2005년도 연구교류회 운영.pdf",
+    "full_path": "40년 기관 생산 발간물/4. 기타연구/2005/[기타연구-2]2005년도 연구교류회 운영.pdf",
+    "source_archive": "",
+    "category": "4. 기타연구",
+    "year": "2005",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 3500234,
+    "size_human": "3.3MB",
+    "pages": 390,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 4166,
+      "nonspace_chars": 3094,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "5. 수탁연구/1999년 수탁과제 최종보고서(20건)/I-9909_정보통신 연구개발사업의 산업-경제적 거시효과 분석(장진규)/I99-09.pdf",
+    "full_path": "40년 기관 생산 발간물/5. 수탁연구/1999년 수탁과제 최종보고서(20건)/I-9909_정보통신 연구개발사업의 산업-경제적 거시효과 분석(장진규)/I99-09.pdf",
+    "source_archive": "",
+    "category": "5. 수탁연구",
+    "year": "1999",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 1022558,
+    "size_human": "998.6KB",
+    "pages": 228,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2241,
+      "nonspace_chars": 1323,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "6. 예비타당성조사/2019/[예비타당성조사-4]사업화연계기술개발사업.pdf",
+    "full_path": "40년 기관 생산 발간물/6. 예비타당성조사/2019/[예비타당성조사-4]사업화연계기술개발사업.pdf",
+    "source_archive": "",
+    "category": "6. 예비타당성조사",
+    "year": "2019",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 4739500,
+    "size_human": "4.5MB",
+    "pages": 212,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 5748,
+      "nonspace_chars": 2441,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "7. STEPI Insight/2007/[STEPI Insight-3]STEPI_Insight_03 R&D 투자와 설비투자.pdf",
+    "full_path": "40년 기관 생산 발간물/7. STEPI Insight/2007/[STEPI Insight-3]STEPI_Insight_03 R&D 투자와 설비투자.pdf",
+    "source_archive": "",
+    "category": "7. STEPI Insight",
+    "year": "2007",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 639784,
+    "size_human": "624.8KB",
+    "pages": 31,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 3096,
+      "nonspace_chars": 2203,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "8. 과학기술정책 Brief/2022/[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책.pdf",
+    "full_path": "40년 기관 생산 발간물/8. 과학기술정책 Brief/2022/[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책.pdf",
+    "source_archive": "",
+    "category": "8. 과학기술정책 Brief",
+    "year": "2022",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 392528,
+    "size_human": "383.3KB",
+    "pages": 4,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/08_8. 과학기술정책 Brief_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/08_8. 과학기술정책 Brief_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/08_8. 과학기술정책 Brief_p3.png",
+        "log": ""
+      },
+      {
+        "page": 4,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/08_8. 과학기술정책 Brief_p4.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 8359,
+      "nonspace_chars": 5493,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "9. Future Horizon+/2009/[Stepi Horizon-1]2009년 Summer (Vol. 1).pdf",
+    "full_path": "40년 기관 생산 발간물/9. Future Horizon+/2009/[Stepi Horizon-1]2009년 Summer (Vol. 1).pdf",
+    "source_archive": "",
+    "category": "9. Future Horizon+",
+    "year": "2009",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 16236580,
+    "size_human": "15.5MB",
+    "pages": 9,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      4
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p5.png",
+        "log": ""
+      },
+      {
+        "page": 4,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p4.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 5,
+      "nonspace_chars": 0,
+      "text_density_note": "텍스트 추출 적음/스캔 가능성"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "10. STEPI Outlook/[STEPI Outlook-1]STEPI_Outlook_2019.pdf",
+    "full_path": "40년 기관 생산 발간물/10. STEPI Outlook/[STEPI Outlook-1]STEPI_Outlook_2019.pdf",
+    "source_archive": "",
+    "category": "10. STEPI Outlook",
+    "year": "2019",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 33333950,
+    "size_human": "31.8MB",
+    "pages": 37,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 1023,
+      "nonspace_chars": 742,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "11. STI Policy Review/2022/[STI Policy Review-1]STI Policy Review - Dec 2022 Vol.1.pdf",
+    "full_path": "40년 기관 생산 발간물/11. STI Policy Review/2022/[STI Policy Review-1]STI Policy Review - Dec 2022 Vol.1.pdf",
+    "source_archive": "",
+    "category": "11. STI Policy Review",
+    "year": "2022",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 2573458,
+    "size_human": "2.5MB",
+    "pages": 115,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 536,
+      "nonspace_chars": 353,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "12. 과학기술정책(1991~2017)/1991/[과학기술정책(1991~2017)-1]과학기술정책 통권 1호.pdf",
+    "full_path": "40년 기관 생산 발간물/12. 과학기술정책(1991~2017)/1991/[과학기술정책(1991~2017)-1]과학기술정책 통권 1호.pdf",
+    "source_archive": "",
+    "category": "12. 과학기술정책(1991~2017)",
+    "year": "1991",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 1012284,
+    "size_human": "988.6KB",
+    "pages": 15,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 5,
+      "nonspace_chars": 0,
+      "text_density_note": "텍스트 추출 적음/스캔 가능성"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "13. 동향과 이슈/2005/[동향과 이슈-7]통계로 보는 과학기술역량.pdf",
+    "full_path": "40년 기관 생산 발간물/13. 동향과 이슈/2005/[동향과 이슈-7]통계로 보는 과학기술역량.pdf",
+    "source_archive": "",
+    "category": "13. 동향과 이슈",
+    "year": "2005",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 1430907,
+    "size_human": "1.4MB",
+    "pages": 32,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 5763,
+      "nonspace_chars": 2335,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "14. Entrepreneurship Korea/2016/[Entrepreneurship Korea-3]Entrepreneurship Korea Fall 2016(Vol.3).pdf",
+    "full_path": "40년 기관 생산 발간물/14. Entrepreneurship Korea/2016/[Entrepreneurship Korea-3]Entrepreneurship Korea Fall 2016(Vol.3).pdf",
+    "source_archive": "",
+    "category": "14. Entrepreneurship Korea",
+    "year": "2016",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 6906989,
+    "size_human": "6.6MB",
+    "pages": 38,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 7067,
+      "nonspace_chars": 3215,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "15. Working Paper/2008/[Working Paper-1]정책조정의 새로운 접근.pdf",
+    "full_path": "40년 기관 생산 발간물/15. Working Paper/2008/[Working Paper-1]정책조정의 새로운 접근.pdf",
+    "source_archive": "",
+    "category": "15. Working Paper",
+    "year": "2008",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 444381,
+    "size_human": "434.0KB",
+    "pages": 17,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 7976,
+      "nonspace_chars": 5722,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "16. SPREC Insight/2022/[SPREC Insight-9][제9호] 지구저궤도(LEO) 활용동향 및 정책과제.pdf",
+    "full_path": "40년 기관 생산 발간물/16. SPREC Insight/2022/[SPREC Insight-9][제9호] 지구저궤도(LEO) 활용동향 및 정책과제.pdf",
+    "source_archive": "",
+    "category": "16. SPREC Insight",
+    "year": "2022",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 3990274,
+    "size_human": "3.8MB",
+    "pages": 22,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 3915,
+      "nonspace_chars": 3239,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "17. 우주정책 글로벌이슈리포트/2022/[우주정책 글로벌이슈리포트-5][2022. 3월] 월간 이슈리포트.pdf",
+    "full_path": "40년 기관 생산 발간물/17. 우주정책 글로벌이슈리포트/2022/[우주정책 글로벌이슈리포트-5][2022. 3월] 월간 이슈리포트.pdf",
+    "source_archive": "",
+    "category": "17. 우주정책 글로벌이슈리포트",
+    "year": "2022",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 45469161,
+    "size_human": "43.4MB",
+    "pages": 20,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 13213,
+      "nonspace_chars": 4847,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "18. (학술지) 과학기술정책/2018/[(학술지)과학기술정책-1]과학기술정책 제1권 제1호.pdf",
+    "full_path": "40년 기관 생산 발간물/18. (학술지) 과학기술정책/2018/[(학술지)과학기술정책-1]과학기술정책 제1권 제1호.pdf",
+    "source_archive": "",
+    "category": "18. (학술지) 과학기술정책",
+    "year": "2018",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 6587124,
+    "size_human": "6.3MB",
+    "pages": 205,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 1970,
+      "nonspace_chars": 1140,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "문서유형 대표",
+    "source_scope": "original_tar_extracted",
+    "path": "19. (학술지) STEPI Policy Review/2010/[(학술지) STI Policy Review-2] STI Policy Review  Summer 2010/3_Wangdong_Kim - Wangdong Kim.pdf",
+    "full_path": "40년 기관 생산 발간물/19. (학술지) STEPI Policy Review/2010/[(학술지) STI Policy Review-2] STI Policy Review  Summer 2010/3_Wangdong_Kim - Wangdong Kim.pdf",
+    "source_archive": "",
+    "category": "19. (학술지) STEPI Policy Review",
+    "year": "2010",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 194433,
+    "size_human": "189.9KB",
+    "pages": 9,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      4
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p5.png",
+        "log": ""
+      },
+      {
+        "page": 4,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p4.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 51168,
+      "nonspace_chars": 28406,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "5. 수탁연구/2001년 수탁과제 최종보고서(27건)/I-0141_부품소재분야 기술개발공동체 형성전략에 관한 연구(김갑수)/부록.alz__extracted/부록A-가로표.pdf",
+    "full_path": "internal_archives_extracted/5. 수탁연구/2001년 수탁과제 최종보고서(27건)/I-0141_부품소재분야 기술개발공동체 형성전략에 관한 연구(김갑수)/부록.alz__extracted/부록A-가로표.pdf",
+    "source_archive": "40년 기관 생산 발간물/5. 수탁연구/2001년 수탁과제 최종보고서(27건)/I-0141_부품소재분야 기술개발공동체 형성전략에 관한 연구(김갑수)/부록.alz",
+    "category": "5. 수탁연구",
+    "year": "2001",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 445434,
+    "size_human": "435.0KB",
+    "pages": 11,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 111419,
+      "nonspace_chars": 92682,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip__extracted/P08-03-1.pdf",
+    "full_path": "internal_archives_extracted/1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip__extracted/P08-03-1.pdf",
+    "source_archive": "40년 기관 생산 발간물/1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip",
+    "category": "1. 정책연구",
+    "year": "2008",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 5077577,
+    "size_human": "4.8MB",
+    "pages": 340,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2425,
+      "nonspace_chars": 1685,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip__extracted/P08-03-2.pdf",
+    "full_path": "internal_archives_extracted/1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip__extracted/P08-03-2.pdf",
+    "source_archive": "40년 기관 생산 발간물/1. 정책연구/2008/[정책연구-620]사회적 목표를 지향하는 혁신정책의 과제.zip",
+    "category": "1. 정책연구",
+    "year": "2008",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 1466963,
+    "size_human": "1.4MB",
+    "pages": 98,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2512,
+      "nonspace_chars": 1767,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip__extracted/P_2008-09-1.pdf",
+    "full_path": "internal_archives_extracted/1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip__extracted/P_2008-09-1.pdf",
+    "source_archive": "40년 기관 생산 발간물/1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip",
+    "category": "1. 정책연구",
+    "year": "2008",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 3578031,
+    "size_human": "3.4MB",
+    "pages": 315,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 2509,
+      "nonspace_chars": 1683,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip__extracted/P_2008_09_2.pdf",
+    "full_path": "internal_archives_extracted/1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip__extracted/P_2008_09_2.pdf",
+    "source_archive": "40년 기관 생산 발간물/1. 정책연구/2008/[정책연구-626]지식집약서비스업 혁신연구 - 제조업성장에 기여하는 R&D서비스업 육성전략.zip",
+    "category": "1. 정책연구",
+    "year": "2008",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 1955189,
+    "size_human": "1.9MB",
+    "pages": 182,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 12602,
+      "nonspace_chars": 1367,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  },
+  {
+    "sample_group": "내부압축 PDF 예시",
+    "source_scope": "internal_archive_extracted",
+    "path": "1. 정책연구/2013/[정책연구-768]창의적인 연구개발을 위한 K-ARPA 시스템 구축방안.zip__extracted/P13-18.pdf",
+    "full_path": "internal_archives_extracted/1. 정책연구/2013/[정책연구-768]창의적인 연구개발을 위한 K-ARPA 시스템 구축방안.zip__extracted/P13-18.pdf",
+    "source_archive": "40년 기관 생산 발간물/1. 정책연구/2013/[정책연구-768]창의적인 연구개발을 위한 K-ARPA 시스템 구축방안.zip",
+    "category": "1. 정책연구",
+    "year": "2013",
+    "extension": "pdf",
+    "logical_type": "PDF",
+    "size_bytes": 55007590,
+    "size_human": "52.5MB",
+    "pages": 155,
+    "capture_pages": [
+      1,
+      2,
+      3,
+      5,
+      10
+    ],
+    "captures": [
+      {
+        "page": 1,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p1.png",
+        "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p2.png",
+        "log": ""
+      },
+      {
+        "page": 3,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p3.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p5.png",
+        "log": ""
+      },
+      {
+        "page": 10,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p10.png",
+        "log": ""
+      }
+    ],
+    "text_probe": {
+      "ok": true,
+      "chars": 1220,
+      "nonspace_chars": 894,
+      "text_density_note": "텍스트 추출 가능"
+    }
+  }
+]

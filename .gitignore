@@ -1,0 +1,16 @@
+# Raw source archives and extracted corpus (too large for repository)
+40년 기관 생산 발간물.tar
+40년 기관 생산 발간물/
+internal_archives_extracted/
+
+# Local tools downloaded for extraction/rendering
+.tools/
+
+# Older intermediate capture output; final site assets live under docs/assets/
+report_assets/
+
+# Runtime/state/cache
+.omx/
+__pycache__/
+*.pyc
+.DS_Store
