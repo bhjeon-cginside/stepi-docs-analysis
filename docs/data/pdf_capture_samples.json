@@ -14,10 +14,13 @@
     "pages": 309,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      39,
+      77,
+      116,
+      154,
+      193,
+      232,
+      270
     ],
     "captures": [
       {
@@ -27,34 +30,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 39,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p39.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 77,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p77.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 116,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p116.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 154,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p154.png",
+        "log": ""
+      },
+      {
+        "page": 193,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p193.png",
+        "log": ""
+      },
+      {
+        "page": 232,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p232.png",
+        "log": ""
+      },
+      {
+        "page": 270,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/01_1. 정책연구_p270.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2001,
-      "nonspace_chars": 943,
+      "chars": 406025,
+      "nonspace_chars": 196667,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -73,10 +94,13 @@
     "pages": 99,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      12,
+      25,
+      37,
+      50,
+      62,
+      74,
+      87
     ],
     "captures": [
       {
@@ -86,34 +110,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 12,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p12.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 25,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p25.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 37,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p37.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 50,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p50.png",
+        "log": ""
+      },
+      {
+        "page": 62,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p62.png",
+        "log": ""
+      },
+      {
+        "page": 74,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p74.png",
+        "log": ""
+      },
+      {
+        "page": 87,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/02_2. 기초연구_p87.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2245,
-      "nonspace_chars": 854,
+      "chars": 111281,
+      "nonspace_chars": 52514,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -132,10 +174,13 @@
     "pages": 185,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      23,
+      46,
+      69,
+      92,
+      116,
+      139,
+      162
     ],
     "captures": [
       {
@@ -145,34 +190,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 23,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p23.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 46,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p46.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 69,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p69.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 92,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p92.png",
+        "log": ""
+      },
+      {
+        "page": 116,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p116.png",
+        "log": ""
+      },
+      {
+        "page": 139,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p139.png",
+        "log": ""
+      },
+      {
+        "page": 162,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/03_3. 수시연구_p162.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 3310,
-      "nonspace_chars": 2066,
+      "chars": 204608,
+      "nonspace_chars": 134906,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -191,10 +254,13 @@
     "pages": 390,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      49,
+      98,
+      146,
+      195,
+      244,
+      292,
+      341
     ],
     "captures": [
       {
@@ -204,34 +270,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 49,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p49.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 98,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p98.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 146,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p146.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 195,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p195.png",
+        "log": ""
+      },
+      {
+        "page": 244,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p244.png",
+        "log": ""
+      },
+      {
+        "page": 292,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p292.png",
+        "log": ""
+      },
+      {
+        "page": 341,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/04_4. 기타연구_p341.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 4166,
-      "nonspace_chars": 3094,
+      "chars": 227952,
+      "nonspace_chars": 144025,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -250,10 +334,13 @@
     "pages": 228,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      28,
+      57,
+      86,
+      114,
+      142,
+      171,
+      200
     ],
     "captures": [
       {
@@ -263,34 +350,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 28,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p28.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 57,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p57.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 86,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p86.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 114,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p114.png",
+        "log": ""
+      },
+      {
+        "page": 142,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p142.png",
+        "log": ""
+      },
+      {
+        "page": 171,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p171.png",
+        "log": ""
+      },
+      {
+        "page": 200,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/05_5. 수탁연구_p200.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2241,
-      "nonspace_chars": 1323,
+      "chars": 245607,
+      "nonspace_chars": 143405,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -309,10 +414,13 @@
     "pages": 212,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      26,
+      53,
+      80,
+      106,
+      132,
+      159,
+      186
     ],
     "captures": [
       {
@@ -322,34 +430,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 26,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p2.png",
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p26.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 53,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p3.png",
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p53.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 80,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p5.png",
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p80.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 106,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p10.png",
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p106.png",
+        "log": ""
+      },
+      {
+        "page": 132,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p132.png",
+        "log": ""
+      },
+      {
+        "page": 159,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p159.png",
+        "log": ""
+      },
+      {
+        "page": 186,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/06_6. 예비타당성조사_p186.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 5748,
-      "nonspace_chars": 2441,
+      "chars": 315300,
+      "nonspace_chars": 132120,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -368,10 +494,13 @@
     "pages": 31,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      4,
+      8,
+      12,
+      16,
+      19,
+      23,
+      27
     ],
     "captures": [
       {
@@ -381,34 +510,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 4,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p2.png",
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p4.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 8,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p3.png",
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p8.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 12,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p5.png",
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p12.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 16,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p10.png",
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p16.png",
+        "log": ""
+      },
+      {
+        "page": 19,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p19.png",
+        "log": ""
+      },
+      {
+        "page": 23,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p23.png",
+        "log": ""
+      },
+      {
+        "page": 27,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/07_7. STEPI Insight_p27.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 3096,
-      "nonspace_chars": 2203,
+      "chars": 29438,
+      "nonspace_chars": 16826,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -481,8 +628,11 @@
       1,
       2,
       3,
-      5,
-      4
+      4,
+      6,
+      7,
+      8,
+      5
     ],
     "captures": [
       {
@@ -504,21 +654,39 @@
         "log": ""
       },
       {
-        "page": 5,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p5.png",
-        "log": ""
-      },
-      {
         "page": 4,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p4.png",
+        "log": ""
+      },
+      {
+        "page": 6,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p6.png",
+        "log": ""
+      },
+      {
+        "page": 7,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p7.png",
+        "log": ""
+      },
+      {
+        "page": 8,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p8.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/09_9. Future Horizon+_p5.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 5,
+      "chars": 8,
       "nonspace_chars": 0,
       "text_density_note": "텍스트 추출 적음/스캔 가능성"
     }
@@ -538,10 +706,13 @@
     "pages": 37,
     "capture_pages": [
       1,
-      2,
-      3,
       5,
-      10
+      9,
+      14,
+      18,
+      23,
+      28,
+      32
     ],
     "captures": [
       {
@@ -551,35 +722,53 @@
         "log": ""
       },
       {
-        "page": 2,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p2.png",
-        "log": ""
-      },
-      {
-        "page": 3,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p3.png",
-        "log": ""
-      },
-      {
         "page": 5,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p5.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 9,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p10.png",
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p9.png",
+        "log": ""
+      },
+      {
+        "page": 14,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p14.png",
+        "log": ""
+      },
+      {
+        "page": 18,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p18.png",
+        "log": ""
+      },
+      {
+        "page": 23,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p23.png",
+        "log": ""
+      },
+      {
+        "page": 28,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p28.png",
+        "log": ""
+      },
+      {
+        "page": 32,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/10_10. STEPI Outlook_p32.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 1023,
-      "nonspace_chars": 742,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 79707,
+      "nonspace_chars": 30873,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -597,10 +786,13 @@
     "pages": 115,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      14,
+      29,
+      43,
+      58,
+      72,
+      86,
+      101
     ],
     "captures": [
       {
@@ -610,34 +802,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 14,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p2.png",
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p14.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 29,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p3.png",
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p29.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 43,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p5.png",
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p43.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 58,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p10.png",
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p58.png",
+        "log": ""
+      },
+      {
+        "page": 72,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p72.png",
+        "log": ""
+      },
+      {
+        "page": 86,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p86.png",
+        "log": ""
+      },
+      {
+        "page": 101,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/11_11. STI Policy Review_p101.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 536,
-      "nonspace_chars": 353,
+      "chars": 241859,
+      "nonspace_chars": 165756,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -657,9 +867,12 @@
     "capture_pages": [
       1,
       2,
-      3,
-      5,
-      10
+      4,
+      6,
+      8,
+      9,
+      11,
+      13
     ],
     "captures": [
       {
@@ -675,27 +888,45 @@
         "log": ""
       },
       {
-        "page": 3,
+        "page": 4,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p3.png",
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p4.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 6,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p5.png",
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p6.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 8,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p10.png",
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p8.png",
+        "log": ""
+      },
+      {
+        "page": 9,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p9.png",
+        "log": ""
+      },
+      {
+        "page": 11,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p11.png",
+        "log": ""
+      },
+      {
+        "page": 13,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/12_12. 과학기술정책(1991~2017)_p13.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 5,
+      "chars": 13,
       "nonspace_chars": 0,
       "text_density_note": "텍스트 추출 적음/스캔 가능성"
     }
@@ -715,10 +946,13 @@
     "pages": 32,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28
     ],
     "captures": [
       {
@@ -728,34 +962,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 4,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p2.png",
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p4.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 8,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p3.png",
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p8.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 12,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p5.png",
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p12.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 16,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p10.png",
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p16.png",
+        "log": ""
+      },
+      {
+        "page": 20,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p20.png",
+        "log": ""
+      },
+      {
+        "page": 24,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p24.png",
+        "log": ""
+      },
+      {
+        "page": 28,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/13_13. 동향과 이슈_p28.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 5763,
-      "nonspace_chars": 2335,
+      "chars": 76775,
+      "nonspace_chars": 18399,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -774,28 +1026,19 @@
     "pages": 38,
     "capture_pages": [
       1,
-      2,
-      3,
       5,
-      10
+      10,
+      14,
+      19,
+      24,
+      28,
+      33
     ],
     "captures": [
       {
         "page": 1,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p1.png",
-        "log": ""
-      },
-      {
-        "page": 2,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p2.png",
-        "log": ""
-      },
-      {
-        "page": 3,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p3.png",
         "log": ""
       },
       {
@@ -809,13 +1052,43 @@
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p10.png",
         "log": ""
+      },
+      {
+        "page": 14,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p14.png",
+        "log": ""
+      },
+      {
+        "page": 19,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p19.png",
+        "log": ""
+      },
+      {
+        "page": 24,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p24.png",
+        "log": ""
+      },
+      {
+        "page": 28,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p28.png",
+        "log": ""
+      },
+      {
+        "page": 33,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/14_14. Entrepreneurship Korea_p33.png",
+        "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 7067,
-      "nonspace_chars": 3215,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 69942,
+      "nonspace_chars": 39948,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -834,9 +1107,12 @@
     "capture_pages": [
       1,
       2,
-      3,
-      5,
-      10
+      4,
+      6,
+      8,
+      11,
+      13,
+      15
     ],
     "captures": [
       {
@@ -852,28 +1128,46 @@
         "log": ""
       },
       {
-        "page": 3,
+        "page": 4,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p3.png",
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p4.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 6,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p5.png",
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p6.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 8,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p10.png",
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p8.png",
+        "log": ""
+      },
+      {
+        "page": 11,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p11.png",
+        "log": ""
+      },
+      {
+        "page": 13,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p13.png",
+        "log": ""
+      },
+      {
+        "page": 15,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/15_15. Working Paper_p15.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 7976,
-      "nonspace_chars": 5722,
+      "chars": 24723,
+      "nonspace_chars": 15793,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -892,10 +1186,13 @@
     "pages": 22,
     "capture_pages": [
       1,
-      2,
       3,
-      5,
-      10
+      6,
+      8,
+      11,
+      14,
+      16,
+      19
     ],
     "captures": [
       {
@@ -905,35 +1202,53 @@
         "log": ""
       },
       {
-        "page": 2,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p2.png",
-        "log": ""
-      },
-      {
         "page": 3,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p3.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 6,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p5.png",
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p6.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 8,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p10.png",
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p8.png",
+        "log": ""
+      },
+      {
+        "page": 11,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p11.png",
+        "log": ""
+      },
+      {
+        "page": 14,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p14.png",
+        "log": ""
+      },
+      {
+        "page": 16,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p16.png",
+        "log": ""
+      },
+      {
+        "page": 19,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/16_16. SPREC Insight_p19.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 3915,
-      "nonspace_chars": 3239,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 28239,
+      "nonspace_chars": 22466,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -952,9 +1267,12 @@
     "capture_pages": [
       1,
       2,
-      3,
       5,
-      10
+      8,
+      10,
+      12,
+      15,
+      18
     ],
     "captures": [
       {
@@ -970,15 +1288,15 @@
         "log": ""
       },
       {
-        "page": 3,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p3.png",
-        "log": ""
-      },
-      {
         "page": 5,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p5.png",
+        "log": ""
+      },
+      {
+        "page": 8,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p8.png",
         "log": ""
       },
       {
@@ -986,12 +1304,30 @@
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p10.png",
         "log": ""
+      },
+      {
+        "page": 12,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p12.png",
+        "log": ""
+      },
+      {
+        "page": 15,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p15.png",
+        "log": ""
+      },
+      {
+        "page": 18,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/17_17. 우주정책 글로벌이슈리포트_p18.png",
+        "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 13213,
-      "nonspace_chars": 4847,
+      "chars": 72280,
+      "nonspace_chars": 29340,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -1010,10 +1346,13 @@
     "pages": 205,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      26,
+      51,
+      77,
+      102,
+      128,
+      154,
+      179
     ],
     "captures": [
       {
@@ -1023,34 +1362,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 26,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p2.png",
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p26.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 51,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p3.png",
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p51.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 77,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p5.png",
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p77.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 102,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p10.png",
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p102.png",
+        "log": ""
+      },
+      {
+        "page": 128,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p128.png",
+        "log": ""
+      },
+      {
+        "page": 154,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p154.png",
+        "log": ""
+      },
+      {
+        "page": 179,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/18_18. (학술지) 과학기술정책_p179.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 1970,
-      "nonspace_chars": 1140,
+      "chars": 250786,
+      "nonspace_chars": 172725,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -1071,8 +1428,11 @@
       1,
       2,
       3,
-      5,
-      4
+      4,
+      6,
+      7,
+      8,
+      5
     ],
     "captures": [
       {
@@ -1094,22 +1454,40 @@
         "log": ""
       },
       {
-        "page": 5,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p5.png",
-        "log": ""
-      },
-      {
         "page": 4,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p4.png",
+        "log": ""
+      },
+      {
+        "page": 6,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p6.png",
+        "log": ""
+      },
+      {
+        "page": 7,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p7.png",
+        "log": ""
+      },
+      {
+        "page": 8,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p8.png",
+        "log": ""
+      },
+      {
+        "page": 5,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/19_19. (학술지) STEPI Policy Review_p5.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 51168,
-      "nonspace_chars": 28406,
+      "chars": 85037,
+      "nonspace_chars": 45997,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -1128,10 +1506,13 @@
     "pages": 11,
     "capture_pages": [
       1,
-      2,
       3,
-      5,
-      10
+      4,
+      6,
+      7,
+      8,
+      10,
+      2
     ],
     "captures": [
       {
@@ -1141,21 +1522,33 @@
         "log": ""
       },
       {
-        "page": 2,
-        "ok": true,
-        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p2.png",
-        "log": ""
-      },
-      {
         "page": 3,
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p3.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 4,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p4.png",
+        "log": ""
+      },
+      {
+        "page": 6,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p6.png",
+        "log": ""
+      },
+      {
+        "page": 7,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p7.png",
+        "log": ""
+      },
+      {
+        "page": 8,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p8.png",
         "log": ""
       },
       {
@@ -1163,13 +1556,19 @@
         "ok": true,
         "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p10.png",
         "log": ""
+      },
+      {
+        "page": 2,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/20_5. 수탁연구_p2.png",
+        "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 111419,
-      "nonspace_chars": 92682,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 195405,
+      "nonspace_chars": 162565,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -1187,10 +1586,13 @@
     "pages": 340,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      42,
+      85,
+      128,
+      170,
+      212,
+      255,
+      298
     ],
     "captures": [
       {
@@ -1200,35 +1602,53 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 42,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p42.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 85,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p85.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 128,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p128.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 170,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p170.png",
+        "log": ""
+      },
+      {
+        "page": 212,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p212.png",
+        "log": ""
+      },
+      {
+        "page": 255,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p255.png",
+        "log": ""
+      },
+      {
+        "page": 298,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/21_1. 정책연구_p298.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2425,
-      "nonspace_chars": 1685,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 347238,
+      "nonspace_chars": 241921,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -1246,10 +1666,13 @@
     "pages": 98,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      12,
+      24,
+      37,
+      49,
+      61,
+      74,
+      86
     ],
     "captures": [
       {
@@ -1259,35 +1682,53 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 12,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p12.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 24,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p24.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 37,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p37.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 49,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p49.png",
+        "log": ""
+      },
+      {
+        "page": 61,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p61.png",
+        "log": ""
+      },
+      {
+        "page": 74,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p74.png",
+        "log": ""
+      },
+      {
+        "page": 86,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/22_1. 정책연구_p86.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2512,
-      "nonspace_chars": 1767,
-      "text_density_note": "텍스트 추출 가능"
+      "chars": 96025,
+      "nonspace_chars": 62138,
+      "text_density_note": "텍스트 추출 가능 · 한글 CID 폰트 매핑 경고 있음"
     }
   },
   {
@@ -1305,10 +1746,13 @@
     "pages": 315,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      39,
+      79,
+      118,
+      158,
+      197,
+      236,
+      276
     ],
     "captures": [
       {
@@ -1318,34 +1762,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 39,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p39.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 79,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p79.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 118,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p118.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 158,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p158.png",
+        "log": ""
+      },
+      {
+        "page": 197,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p197.png",
+        "log": ""
+      },
+      {
+        "page": 236,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p236.png",
+        "log": ""
+      },
+      {
+        "page": 276,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/23_1. 정책연구_p276.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 2509,
-      "nonspace_chars": 1683,
+      "chars": 412401,
+      "nonspace_chars": 237468,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -1364,10 +1826,13 @@
     "pages": 182,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      23,
+      46,
+      68,
+      91,
+      114,
+      136,
+      159
     ],
     "captures": [
       {
@@ -1377,34 +1842,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 23,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p23.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 46,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p46.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 68,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p68.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 91,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p91.png",
+        "log": ""
+      },
+      {
+        "page": 114,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p114.png",
+        "log": ""
+      },
+      {
+        "page": 136,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p136.png",
+        "log": ""
+      },
+      {
+        "page": 159,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/24_1. 정책연구_p159.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 12602,
-      "nonspace_chars": 1367,
+      "chars": 193061,
+      "nonspace_chars": 100748,
       "text_density_note": "텍스트 추출 가능"
     }
   },
@@ -1423,10 +1906,13 @@
     "pages": 155,
     "capture_pages": [
       1,
-      2,
-      3,
-      5,
-      10
+      19,
+      39,
+      58,
+      78,
+      97,
+      116,
+      136
     ],
     "captures": [
       {
@@ -1436,34 +1922,52 @@
         "log": ""
       },
       {
-        "page": 2,
+        "page": 19,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p2.png",
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p19.png",
         "log": ""
       },
       {
-        "page": 3,
+        "page": 39,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p3.png",
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p39.png",
         "log": ""
       },
       {
-        "page": 5,
+        "page": 58,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p5.png",
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p58.png",
         "log": ""
       },
       {
-        "page": 10,
+        "page": 78,
         "ok": true,
-        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p10.png",
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p78.png",
+        "log": ""
+      },
+      {
+        "page": 97,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p97.png",
+        "log": ""
+      },
+      {
+        "page": 116,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p116.png",
+        "log": ""
+      },
+      {
+        "page": 136,
+        "ok": true,
+        "path": "docs/assets/pdf_captures_multi/25_1. 정책연구_p136.png",
         "log": ""
       }
     ],
     "text_probe": {
       "ok": true,
-      "chars": 1220,
-      "nonspace_chars": 894,
+      "chars": 188631,
+      "nonspace_chars": 81102,
       "text_density_note": "텍스트 추출 가능"
     }
   }
