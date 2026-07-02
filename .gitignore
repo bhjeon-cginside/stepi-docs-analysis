@@ -14,3 +14,9 @@ report_assets/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Superseded single-page capture report artifacts
+/document_format_capture_report.html
+/document_format_capture_report.md
+/document_format_capture_report_samples.json
+/make_pdf_capture_report.py
