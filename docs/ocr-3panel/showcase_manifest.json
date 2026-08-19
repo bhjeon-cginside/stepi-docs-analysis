@@ -196,7 +196,7 @@
       ]
     },
     {
-      "title": "7. STEPI Insight · 2007",
+      "title": "17. 우주정책 글로벌이슈리포트 · 2022",
       "group": "문서유형 대표",
       "pages": [
         {
@@ -204,21 +204,21 @@
           "original": "assets/08_p001_original.png",
           "overlay": "assets/08_p001_layout.png",
           "markdown": "assets/08_p001_result.md",
-          "boxes": 1
-        },
-        {
-          "page": 12,
-          "original": "assets/08_p012_original.png",
-          "overlay": "assets/08_p012_layout.png",
-          "markdown": "assets/08_p012_result.md",
-          "boxes": 4
-        },
-        {
-          "page": 23,
-          "original": "assets/08_p023_original.png",
-          "overlay": "assets/08_p023_layout.png",
-          "markdown": "assets/08_p023_result.md",
           "boxes": 5
+        },
+        {
+          "page": 8,
+          "original": "assets/08_p008_original.png",
+          "overlay": "assets/08_p008_layout.png",
+          "markdown": "assets/08_p008_result.md",
+          "boxes": 18
+        },
+        {
+          "page": 15,
+          "original": "assets/08_p015_original.png",
+          "overlay": "assets/08_p015_layout.png",
+          "markdown": "assets/08_p015_result.md",
+          "boxes": 65
         }
       ]
     },
