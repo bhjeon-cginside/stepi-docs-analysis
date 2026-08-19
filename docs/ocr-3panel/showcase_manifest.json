@@ -1,0 +1,58 @@
+{
+  "title": "문서 변환 3단 예시",
+  "panelSchema": [
+    "원본 페이지",
+    "감지·레이아웃 결과",
+    "Markdown 변환 결과"
+  ],
+  "documents": [
+    {
+      "title": "1. 정책연구 · 1989 · 첫 페이지",
+      "group": "문서유형 대표",
+      "original": "assets/01_original.png",
+      "overlay": "assets/01_layout.png",
+      "markdown": "assets/01_result.md",
+      "boxes": 4
+    },
+    {
+      "title": "5. 수탁연구 · 1999 · 첫 페이지",
+      "group": "문서유형 대표",
+      "original": "assets/02_original.png",
+      "overlay": "assets/02_layout.png",
+      "markdown": "assets/02_result.md",
+      "boxes": 4
+    },
+    {
+      "title": "8. 과학기술정책 Brief · 2022 · 첫 페이지",
+      "group": "문서유형 대표",
+      "original": "assets/03_original.png",
+      "overlay": "assets/03_layout.png",
+      "markdown": "assets/03_result.md",
+      "boxes": 17
+    },
+    {
+      "title": "13. 동향과 이슈 · 2005 · 첫 페이지",
+      "group": "문서유형 대표",
+      "original": "assets/04_original.png",
+      "overlay": "assets/04_layout.png",
+      "markdown": "assets/04_result.md",
+      "boxes": 12
+    },
+    {
+      "title": "15. Working Paper · 2008 · 첫 페이지",
+      "group": "문서유형 대표",
+      "original": "assets/05_original.png",
+      "overlay": "assets/05_layout.png",
+      "markdown": "assets/05_result.md",
+      "boxes": 7
+    },
+    {
+      "title": "5. 수탁연구 · 2001 · 첫 페이지",
+      "group": "내부압축 PDF 예시",
+      "original": "assets/06_original.png",
+      "overlay": "assets/06_layout.png",
+      "markdown": "assets/06_result.md",
+      "boxes": 2
+    }
+  ]
+}

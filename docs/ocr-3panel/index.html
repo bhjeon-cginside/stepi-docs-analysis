@@ -1,166 +1,16 @@
-<!doctype html>
-<html lang="ko">
-<head>
-<meta charset="utf-8">
-<title>OCR 후보 3단 비교 - D008_P0001</title>
-<style>
-body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; margin: 24px; background:#f6f8fa; color:#111; }
-h1 { margin-bottom: 4px; }
-.note { color:#555; margin-bottom: 20px; }
-.card { background:white; border:1px solid #d0d7de; border-radius:12px; padding:16px; margin:18px 0; box-shadow:0 1px 2px rgba(0,0,0,.04); }
-header { display:flex; align-items:center; gap:12px; }
-h2 { margin:0; font-size:20px; }
-.badge { border:1px solid #aaa; border-radius:999px; padding:3px 10px; background:#eef6ff; font-size:12px; }
-.fit { color:#4b5563; }
-.grid { display:grid; grid-template-columns: 1fr 1fr 1fr; gap:14px; align-items:start; }
-.panel { border:1px solid #e5e7eb; border-radius:8px; padding:10px; background:#fff; min-width:0; }
-h3 { margin:0 0 8px; font-size:15px; }
-img { max-width:100%; border:1px solid #ddd; background:white; }
-.markdown { white-space:pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:12px; line-height:1.45; max-height:640px; overflow:auto; background:#0b1020; color:#edf2ff; padding:12px; border-radius:6px; }
-@media (max-width: 1200px) { .grid { grid-template-columns:1fr; } }
-</style>
-</head>
-<body>
-<p style="margin:0 0 12px"><a href="../">← STEPI 문서 분석 개요로 돌아가기</a></p>
-<h1>OCR/PDF Parser 후보 3단 비교: D008_P0001</h1>
-<p class="note">동일한 글씨 있는 샘플 1장 기준: 원본 이미지 / detection 또는 layout overlay / Markdown·문서 변환 결과. OpenDataLoader는 원본 PDF parser 결과 bbox를 PNG에 투영했습니다.</p>
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>문서 변환 3단 예시</title><style>:root{--ink:#172033;--muted:#637087;--line:#dce3ef;--panel:#f6f8fc;--blue:#2459c7}*{box-sizing:border-box}body{margin:0;background:#f3f6fb;color:var(--ink);font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:1500px;margin:auto;padding:28px}a{color:var(--blue)}.back{font-weight:700;text-decoration:none}h1{margin:24px 0 8px;font-size:clamp(28px,4vw,42px)}.intro{margin:0 0 26px;color:var(--muted);line-height:1.65}.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;margin:20px 0;box-shadow:0 4px 20px rgba(31,49,84,.05)}header{display:flex;align-items:start;justify-content:space-between;gap:16px;margin-bottom:16px}h2{margin:0;font-size:21px}.eyebrow{margin:0 0 5px;color:var(--blue);font-size:13px;font-weight:800}.badge{white-space:nowrap;border:1px solid #bfd1f7;background:#edf4ff;color:#1f4eab;padding:5px 9px;border-radius:999px;font-size:12px;font-weight:750}.grid{display:grid;grid-template-columns:minmax(220px,1fr) minmax(220px,1fr) minmax(280px,1.15fr);gap:14px;align-items:start}.panel{min-width:0;margin:0;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px}figcaption,h3{margin:0 0 10px;font-size:14px}img{display:block;width:100%;height:auto;border:1px solid #cfd8e6;background:white}pre{margin:0;white-space:pre-wrap;overflow:auto;max-height:690px;padding:12px;border-radius:7px;background:#0d1729;color:#e8eefc;font:12px/1.55 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}@media(max-width:1050px){.grid{grid-template-columns:1fr}pre{max-height:440px}}@media(max-width:600px){main{padding:18px}.card{padding:14px}header{display:block}.badge{display:inline-block;margin-top:10px}}</style></head><body><main><a class="back" href="../">← STEPI 간행물 분석 개요</a><h1>문서 변환 3단 예시</h1><p class="intro">대표 문서 6개의 첫 페이지를 같은 구성으로 제시합니다. 원본 페이지, 감지·레이아웃 결과, Markdown 변환 결과를 나란히 확인할 수 있습니다.</p><section class="card"><header><div><p class="eyebrow">문서유형 대표</p><h2>1. 정책연구 · 1989 · 첫 페이지</h2></div><span class="badge">영역 4개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/01_original.png" alt="1. 정책연구 · 1989 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/01_layout.png" alt="1. 정책연구 · 1989 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre>![](&lt;[정책연구-4]중국의 과학기술정책_images/imageFile1.png&gt;)
 
-<section class="card">
-  <header><h2>PaddleOCR OCR --lang korean</h2><span class="badge">OK</span></header>
-  <p class="fit">가벼운 로컬 OCR baseline. 텍스트 line 단위 비교에 적합.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/paddleocr_korean_overlay.png" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown">Brief
-과학기술정책
-Vol.2
-2022.
-12. 28.
-사회문제 대응을 위한 통합적 연구개발정책
-극무은능 ㄷ[어&lt;근은극
-어은 이 극ㄹ하를느···
-애은ㄷ 을 
-논급 을 극의표 롱공후 운곡 글머 극의동 롱러 허유응 곡허 극성 
-여류 터 알이밍가래 공무
-를을   
-야 융이이
-이 극에를
- 을극이을어을-
-영어를ㄷ이극이
-   여를융의이의야를융이을
-사회적 수요에대한 지식이결합되어야 함
-과학·기술 연구개발성과가 시스템전환의동력으로작동하기위해서는미래사회비전과사회구성원의
-인식,행동양식에대한 지식이결합되어야함
-디지털사회로발전해 가고있는가운데모든학문 분야에서데이터공유에기반한다양한해법이
-협력적으로 모색될 수 있도록지원할필요가있음
-SCIENICE AND TECHNOL OGY POL ICY INSTITUITE</pre></div>
-  </div>
-</section>
+wf究報告 89-14
 
-<section class="card">
-  <header><h2>PaddleOCR PP-StructureV3</h2><span class="badge">OK</span></header>
-  <p class="fit">레이아웃/블록 overlay와 docx/md export 기준 비교에 적합. 한국어 텍스트 인식은 약함.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/paddleocr_ppstructurev3_layout_order.png" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown"># Brief 
+# 中國의 科學技術政策
 
-Vol.2
+![](&lt;[정책연구-4]중국의 과학기술정책_images/imageFile2.png&gt;)</pre></section></div></section><section class="card"><header><div><p class="eyebrow">문서유형 대표</p><h2>5. 수탁연구 · 1999 · 첫 페이지</h2></div><span class="badge">영역 4개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/02_original.png" alt="5. 수탁연구 · 1999 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/02_layout.png" alt="5. 수탁연구 · 1999 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre>최 종 보 고 서
 
-2022.12.28.
+# 정보통신 연구개발사업의 산업-경제적 거시효과 분석
 
-# 
+수탁기관 : 과학기술정책연구원
 
-
-
-66
-
-# 
-
-  
-
-
-
-
-
-
-
-
-
-l 
-
-
-
-层居
-
-</pre></div>
-  </div>
-</section>
-
-<section class="card">
-  <header><h2>MinerU pipeline OCR --lang korean</h2><span class="badge">OK</span></header>
-  <p class="fit">문서 파서 lane. Markdown/content-list/layout PDF를 함께 제공.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/mineru_layout_overlay.png" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown"># 사회문제 대응을 위한 통합적 연구개발정책
-
-•서지영선임연구위원
-
-![](images/498ad2a5dfbe4aab4619fe4c205810fbe3e8535ce60f5a817b28ec9b680f603b.jpg)
-
-실효성 있는 사회문제해결과 과학적 근거기반의 사회혁신 전략 수립을 위해서는과학·기술·인문·사회를 아우르는 과학기술 연구개발정책으로 전환하여,문제중심의 통합적 연구개발 프로그램을 추진해야 함
-
-![](images/efee0d1c25c7145cb290488a06e2b556ca5c03d98d6297688933f9d51f20d6a9.jpg)
-
-√실효성있는사회문제대응방안 마련을위해서는모든분과학문을포괄하는통합적연구개발지원패러다임으로전환 필요
-
-과학기술연구개발지원정책에서단기적사회문제 해소를위한기술개발및사업화 지원은점차 비중이확대되고있으나,아직 실용화 성과가 부진하고,장기적 시스템 전환을 위한 연구개발은‘과학기술연구개발&#x27;의 범주에 들어오지 못하고 있는 상황
-
--기후변화, 고령화 등의거시적 변화에대응하기위해서는단기적으로는 부정적영향을최소화 하고,장기적으로는변화된 환경에 적합한경제·사회시스템을만들어가야할필요가있음
-
-기술적해법의 실용화를위해서는사회적수용성제고가 필요하며, 연구개발과정에서 기술적 지식과사회적수요에대한 지식이 결합되어야 함
-
-과학·기술연구개발성과가시스템전환의동력으로작동하기위해서는미래사회 비전과사회구성원의인식,행동양식에대한지식이결합되어야함
-
-•디지털사회로발전해가고있는가운데 모든학문 분야에서데이터공유에기반한다양한해법이협력적으로모색될 수있도록지원할 필요가있음</pre></div>
-  </div>
-</section>
-
-<section class="card">
-  <header><h2>Unlimited-OCR local GPU</h2><span class="badge">OK</span></header>
-  <p class="fit">샘플 기준 한국어 OCR 품질 최상. detection bbox + Markdown 비교에 적합.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/unlimited_ocr_boxes.jpg" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown">과학기술정책 Brief
-Vol. 2
-2022. 12. 28.
-사회문제 대응을 위한 통합적 연구개발정책
-- 서지영 선임연구위원
-![](images/0.jpg)
-
-실효성 있는 사회문제해결과 과학적 근거기반의 사회혁신 전략 수립을 위해서는 과학·기술·인문·사회를 아우르는 과학기술 연구개발정책으로 전환하여, 문제중심의 통합적 연구개발 프로그램을 추진해야 함
-![](images/1.jpg)
-
-실효성 있는 사회문제 대응방안 마련을 위해서는 모든 분과 학문을 포괄하는 통합적 연구 개발지원 패러다임으로 전환 필요
-- 과학기술 연구개발 지원정책에서 단기적 사회문제 해소를 위한 기술개발 및 사업화 지원은 점차 비중이 확대되고 있으나, 아직 실용화 성과가 부진하고, 장기적 시스템 전환을 위한 연구개발은 ‘과학기술 연구개발’ 의 범주에 들어오지 못하고 있는 상황
-- 기후변화, 고령화 등의 거시적 변화에 대응하기 위해서는 단기적으로는 부정적 영향을 최소화 하고, 장기적으로는 변화된 환경에 적합한 경제·사회시스템을 만들어 가야 할 필요가 있음
-- 기술적 해법의 실용화를 위해서는 사회적 수용성 제고가 필요하며, 연구개발 과정에서 기술적 지식과 사회적 수요에 대한 지식이 결합되어야 함
-- 과학·기술 연구개발 성과가 시스템전환의 동력으로 작동하기 위해서는 미래사회 비전과 사회구성원의 인식, 행동양식에 대한 지식이 결합되어야 함
-- 디지털 사회로 발전해 가고 있는 가운데 모든 학문 분야에서 데이터 공유에 기반한 다양한 해법이 협력적으로 모색될 수 있도록 지원할 필요가 있음
-SCIENCE AND TECHNOLOGY POLICY INSTITUTE
-1</pre></div>
-  </div>
-</section>
-
-<section class="card">
-  <header><h2>OpenDataLoader PDF</h2><span class="badge">OK (source PDF)</span></header>
-  <p class="fit">PDF parser lane. PNG OCR가 아니라 원본 PDF 구조/bbox를 sample PNG에 투영.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/opendataloader_pdf_boxes.png" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown">![image 1](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile1.png&gt;)
+## 정보통신연구진흥원</pre></section></div></section><section class="card"><header><div><p class="eyebrow">문서유형 대표</p><h2>8. 과학기술정책 Brief · 2022 · 첫 페이지</h2></div><span class="badge">영역 17개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/03_original.png" alt="8. 과학기술정책 Brief · 2022 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/03_layout.png" alt="8. 과학기술정책 Brief · 2022 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre>![](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile1.png&gt;)
 
 Vol. 2 2022. 12. 28.
 
@@ -168,11 +18,11 @@ Vol. 2 2022. 12. 28.
 
 • 서지영 선임연구위원
 
-![image 2](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile2.png&gt;)
+![](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile2.png&gt;)
 
 ## 실효성 있는 사회문제해결과 과학적 근거기반의 사회혁신 전략 수립을 위해서는 과학·기술·인문·사회를 아우르는 과학기술 연구개발정책으로 전환하여, 문제중심의 통합적 연구개발 프로그램을 추진해야 함
 
-![image 3](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile3.png&gt;)
+![](&lt;[과학기술정책 Brief 2]과학기술정책_Brief_제2호 사회문제 대응을 위한 통합적 연구개발정책_images/imageFile3.png&gt;)
 
 ### 실효성 있는 사회문제 대응방안 마련을 위해서는 모든 분과 학문을 포괄하는 통합적 연구 개발지원 패러다임으로 전환 필요
 
@@ -192,79 +42,71 @@ l 디지털 사회로 발전해 가고 있는 가운데 모든 학문 분야에�
 
 협력적으로 모색될 수 있도록 지원할 필요가 있음
 
-SCIENCE AND TECHNOLOGY POLICY INSTITUTE 1
+SCIENCE AND TECHNOLOGY POLICY INSTITUTE 1</pre></section></div></section><section class="card"><header><div><p class="eyebrow">문서유형 대표</p><h2>13. 동향과 이슈 · 2005 · 첫 페이지</h2></div><span class="badge">영역 12개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/04_original.png" alt="13. 동향과 이슈 · 2005 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/04_layout.png" alt="13. 동향과 이슈 · 2005 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre>![](&lt;[동향과 이슈-7]통계로 보는 과학기술역량_images/imageFile1.png&gt;)
 
-</pre></div>
-  </div>
-</section>
+2005년 12월 23일 통권 제8호
 
-<section class="card">
-  <header><h2>paddle-gemma-orchestrator + GPT-5.5</h2><span class="badge">OK (orchestration proof)</span></header>
-  <p class="fit">VLM 분류 + PaddleX + VLM fallback ROI. STEPI 전용 domain pack 필요.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/paddle_gemma_vlm_fallback_overlay.jpg" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown">```json
-{
-  &quot;run_id&quot;: &quot;run-20260702T220428-e494b7a92562&quot;,
-  &quot;category&quot;: &quot;quality_report&quot;,
-  &quot;classification_reason&quot;: &quot;허용 범주와 일치하지 않는 정책 브리프 문서로 보여 임시로 성적서에 낮은 신뢰도로 분류&quot;,
-  &quot;region_count&quot;: 3,
-  &quot;active_region_source&quot;: &quot;vlm_fallback&quot;,
-  &quot;caveat&quot;: &quot;현재 domain pack은 STEPI용이 아니므로 extraction 품질 비교가 아니라 orchestration/detection proof로만 사용&quot;,
-  &quot;regions&quot;: [
-    {
-      &quot;region_id&quot;: &quot;p001_vf001&quot;,
-      &quot;label&quot;: &quot;text&quot;,
-      &quot;bbox&quot;: [
-        127,
-        356,
-        770,
-        438
-      ],
-      &quot;score&quot;: 0.95
-    },
-    {
-      &quot;region_id&quot;: &quot;p001_vf002&quot;,
-      &quot;label&quot;: &quot;text&quot;,
-      &quot;bbox&quot;: [
-        94,
-        477,
-        806,
-        648
-      ],
-      &quot;score&quot;: 0.93
-    },
-    {
-      &quot;region_id&quot;: &quot;p001_vf003&quot;,
-      &quot;label&quot;: &quot;text&quot;,
-      &quot;bbox&quot;: [
-        86,
-        689,
-        814,
-        1161
-      ],
-      &quot;score&quot;: 0.96
-    }
-  ]
-}
-```
-</pre></div>
-  </div>
-</section>
+# 통계로 보는 과학기술역량
 
-<section class="card">
-  <header><h2>document-processor</h2><span class="badge">Partial</span></header>
-  <p class="fit">의존성은 해결됐지만 현재 sample semantic blocks=0. 비교 후보에서는 보류.</p>
-  <div class="grid">
-    <div class="panel"><h3>1. 원본 샘플</h3><img src="assets/original_d008_p1.png" alt="original"></div>
-    <div class="panel"><h3>2. Detection/Layout overlay</h3><img src="assets/original_d008_p1.png" alt="overlay"></div>
-    <div class="panel"><h3>3. Markdown/문서 변환 결과</h3><pre class="markdown"># document-processor
+|강희종 |
 
-PDF smoke run succeeded after uv Python 3.13 + jdk4py, but semantic output for this sample had 0 blocks. Direct OpenDataLoader output is non-empty, so this is not included as a comparable extraction result yet.
-</pre></div>
-  </div>
-</section>
+Contents 목 차
 
-</body>
-</html>
+□ 요약 3
+
+- 1. 연구개발투입으로 본 과학기술역량 5
+- 2. 연구개발과정으로 본 과학기술역량 12
+- 3. 연구개발산출로 본 과학기술역량 15
+- 4. 연구개발기반으로 본 과학기술역량 28
+- 5. 결론 및 시사점 30
+- 6. 참고문헌 32
+
+
+제호 / 혁신Brief(월간)
+
+발행인 / 정성철 편집인 / 조황희 발행일 / 2005년 12월 23일
+
+발행처 / 과학기술정책연구원 156-714 서울시 동작구 신대방동 395-70 전문건설회관 20F,26F,27F
+
+등록번호 / 서울라 09680 등록일자 / 2005년 7월 6일 대표전화 /
+
+02)3284-1800,1899 대표팩스 / 02)849-8016 인쇄 / 미래미디어</pre></section></div></section><section class="card"><header><div><p class="eyebrow">문서유형 대표</p><h2>15. Working Paper · 2008 · 첫 페이지</h2></div><span class="badge">영역 7개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/05_original.png" alt="15. Working Paper · 2008 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/05_layout.png" alt="15. Working Paper · 2008 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre>![](&lt;[Working Paper-1]정책조정의 새로운 접근_images/imageFile1.png&gt;)
+
+## STEPI WORKING PAPER SERIES
+
+WP 2008-01 / 2008-05-06
+
+# 정책 조정의 새로운 접근 : 정책 통합
+
+### 성지은1․송위진2
+
+|STEPI Working Paper는 진행 중인 연구의 중간 성과물로서 완성된 연구결과가 아니며, 인용 및 게재 시 Working Paper임을 밝혀야 합니다. 또 본 연구에서 제시된 주장은 STEPI의 공식 입장이 아닌 연구자의 의견입니다.|
+|---|
+
+
+- 1 과학기술정책연구원 혁신정책연구센터 부연구위원 jeseong@stepi.re.kr
+- 2 과학기술정책연구원 혁신정책연구센터 연구위원 songwc@stepi.re.kr</pre></section></div></section><section class="card"><header><div><p class="eyebrow">내부압축 PDF 예시</p><h2>5. 수탁연구 · 2001 · 첫 페이지</h2></div><span class="badge">영역 2개</span></header><div class="grid"><figure class="panel"><figcaption>1. 원본 페이지</figcaption><img src="assets/06_original.png" alt="5. 수탁연구 · 2001 · 첫 페이지 원본"></figure><figure class="panel"><figcaption>2. 감지·레이아웃 결과</figcaption><img src="assets/06_layout.png" alt="5. 수탁연구 · 2001 · 첫 페이지 영역 표시"></figure><section class="panel result"><h3>3. Markdown 변환 결과</h3><pre># &amp;lt;부록 도표 A-1&amp;gt; 산업기술진흥협회에 등록된 기업부설연구소 전체 설립 현황
+
+|년 도 업 종| |1991|1992|1993|1994|1995|1996|1997|1998| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|기계금속|대 기 업|145|157|166|178|181|167|169|175| | | |
+| |중소기업|243|277|329|379|452|449|561|708| | | |
+| |소계|388|434|495|557|633|616|730|883| | | |
+|전기전자|대 기 업|127|136|145|153|163|203|226|232| | | |
+| |중소기업|277|386|479|601|713|881|1,095|1,514| | | |
+| |소계|404|522|624|754|876|1,084|1,321|1,746| | | |
+|화학|대 기 업|123|126|136|162|164|191|194|194| | | |
+| |중소기업|135|170|208|241|284|336|378|457| | | |
+| |소계|258|296|344|403|448|527|572|651| | | |
+|식품|대 기 업|41|42|43|48|51|50|49|52| | | |
+| |중소기업|12|15|17|17|19|20|22|25| | | |
+| |소계|53|57|60|65|70|70|71|77| | | |
+|섬유|대 기 업|18|20|23|26|30|32|30|29| | | |
+| |중소기업|10|11|12|13|15|15|15|17| | | |
+| |소계|28|31|35|39|45|47|45|46| | | |
+|기타|대 기 업|42|51|64|81|96|105|114|118| | | |
+| |중소기업|28|44|68|81|102|161|207|239| | | |
+| |소계|70|95|132|162|198|266|321|357| | | |
+|총계|대 기 업|496|532|577|648|685|748|782|800| | | |
+| |중소기업|705|903|1,113|1,332|1,585|1,862|2,278|2,960| | | |
+| |소계|1,201|1,435|1,690|1,980|2,270|2,610|3,060|3,760| | | |</pre></section></div></section></main></body></html>
