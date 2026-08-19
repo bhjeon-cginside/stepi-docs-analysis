@@ -223,7 +223,7 @@
       ]
     },
     {
-      "title": "11. STI Policy Review · 2022",
+      "title": "10. STEPI Outlook · 2019",
       "group": "문서유형 대표",
       "pages": [
         {
@@ -231,26 +231,26 @@
           "original": "assets/09_p001_original.png",
           "overlay": "assets/09_p001_layout.png",
           "markdown": "assets/09_p001_result.md",
-          "boxes": 5
+          "boxes": 1
         },
         {
-          "page": 43,
-          "original": "assets/09_p043_original.png",
-          "overlay": "assets/09_p043_layout.png",
-          "markdown": "assets/09_p043_result.md",
-          "boxes": 18
+          "page": 14,
+          "original": "assets/09_p014_original.png",
+          "overlay": "assets/09_p014_layout.png",
+          "markdown": "assets/09_p014_result.md",
+          "boxes": 13
         },
         {
-          "page": 86,
-          "original": "assets/09_p086_original.png",
-          "overlay": "assets/09_p086_layout.png",
-          "markdown": "assets/09_p086_result.md",
-          "boxes": 18
+          "page": 28,
+          "original": "assets/09_p028_original.png",
+          "overlay": "assets/09_p028_layout.png",
+          "markdown": "assets/09_p028_result.md",
+          "boxes": 16
         }
       ]
     },
     {
-      "title": "16. SPREC Insight · 2022",
+      "title": "14. Entrepreneurship Korea · 2016",
       "group": "문서유형 대표",
       "pages": [
         {
@@ -258,21 +258,21 @@
           "original": "assets/10_p001_original.png",
           "overlay": "assets/10_p001_layout.png",
           "markdown": "assets/10_p001_result.md",
-          "boxes": 37
+          "boxes": 8
         },
         {
-          "page": 8,
-          "original": "assets/10_p008_original.png",
-          "overlay": "assets/10_p008_layout.png",
-          "markdown": "assets/10_p008_result.md",
-          "boxes": 15
+          "page": 14,
+          "original": "assets/10_p014_original.png",
+          "overlay": "assets/10_p014_layout.png",
+          "markdown": "assets/10_p014_result.md",
+          "boxes": 6
         },
         {
-          "page": 16,
-          "original": "assets/10_p016_original.png",
-          "overlay": "assets/10_p016_layout.png",
-          "markdown": "assets/10_p016_result.md",
-          "boxes": 11
+          "page": 28,
+          "original": "assets/10_p028_original.png",
+          "overlay": "assets/10_p028_layout.png",
+          "markdown": "assets/10_p028_result.md",
+          "boxes": 3
         }
       ]
     },
