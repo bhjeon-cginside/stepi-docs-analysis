@@ -22,7 +22,7 @@
   "hwpHwpx": {
     "files": 411,
     "pageCount": 42943,
-    "pageCountSemantics": "rhwp layout-engine re-pagination estimate",
+    "pageCountSemantics": "layout-engine re-pagination estimate",
     "successCount": 411,
     "errorCount": 0
   }

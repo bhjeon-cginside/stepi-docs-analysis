@@ -1,6 +1,4 @@
 {
-  "tool": "rhwp",
-  "toolVersion": "rhwp v0.8.4",
   "corpusRoot": "doc_platform",
   "inputCount": 1357,
   "successCount": 1355,
@@ -69,6 +67,6 @@
     }
   ],
   "elapsedSeconds": 51.873,
-  "pageCountSemantics": "rhwp layout-engine re-pagination estimate",
+  "pageCountSemantics": "layout-engine re-pagination estimate",
   "textCharCountSemantics": "Unicode character count including whitespace"
 }
