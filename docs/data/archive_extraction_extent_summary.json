@@ -1,0 +1,29 @@
+{
+  "sourceArchiveCount": 261,
+  "extractedFileCount": 1011,
+  "extractedSizeBytes": 3818554593,
+  "logicalTypeCounts": {
+    "PDF": 434,
+    "PowerPoint": 39,
+    "HWP/HWPX": 411,
+    "Word/RTF": 80,
+    "Image/Graphic": 6,
+    "Mac Resource Fork": 3,
+    "Excel/Data": 16,
+    "Text/Web/Data": 1,
+    "Visio/Diagram": 21
+  },
+  "pdf": {
+    "files": 434,
+    "pageCount": 76042,
+    "pageCountSemantics": "pdfinfo direct count",
+    "successCount": 434
+  },
+  "hwpHwpx": {
+    "files": 411,
+    "pageCount": 42943,
+    "pageCountSemantics": "rhwp layout-engine re-pagination estimate",
+    "successCount": 411,
+    "errorCount": 0
+  }
+}
