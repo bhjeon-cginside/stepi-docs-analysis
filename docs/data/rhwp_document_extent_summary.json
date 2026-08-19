@@ -1,0 +1,74 @@
+{
+  "tool": "rhwp",
+  "toolVersion": "rhwp v0.8.4",
+  "corpusRoot": "doc_platform",
+  "inputCount": 1357,
+  "successCount": 1355,
+  "errorCount": 2,
+  "successRate": 0.998526,
+  "formatCounts": {
+    "hwp3": 486,
+    "hwp5": 866,
+    "hwpx": 3
+  },
+  "stagedNonUtf8PathCount": 377,
+  "overall": {
+    "documentCount": 1355,
+    "totalPages": 156486,
+    "medianPages": 88,
+    "p95Pages": 337,
+    "maxPages": 889,
+    "totalParagraphs": 1873998,
+    "totalTextChars": 135963960
+  },
+  "byFormat": {
+    "hwp3": {
+      "documentCount": 486,
+      "totalPages": 38433,
+      "medianPages": 34.5,
+      "p95Pages": 289,
+      "maxPages": 707,
+      "totalParagraphs": 478112,
+      "totalTextChars": 34434622
+    },
+    "hwp5": {
+      "documentCount": 866,
+      "totalPages": 117621,
+      "medianPages": 116.5,
+      "p95Pages": 350,
+      "maxPages": 889,
+      "totalParagraphs": 1389575,
+      "totalTextChars": 100917110
+    },
+    "hwpx": {
+      "documentCount": 3,
+      "totalPages": 432,
+      "medianPages": 198,
+      "p95Pages": 198,
+      "maxPages": 198,
+      "totalParagraphs": 6311,
+      "totalTextChars": 612228
+    }
+  },
+  "errors": [
+    {
+      "error": "파싱 실패: 유효하지 않은 파일: HWP 3.0 오류: 입출력 오류가 발생했습니다: failed to fill whole buffer",
+      "exitClass": "runtime",
+      "schemaVersion": "1.0",
+      "source": "40년 기관 생산 발간물/5. 수탁연구/2003년 수탁과제 최종보고서(40건)/I-0312_광주광역시 BIO 산업육성계획(안두현)/광주광역시 BIO 산업육성계획 수립_안두현(최종보고서).hwp",
+      "untrustedContent": false,
+      "untrustedFields": []
+    },
+    {
+      "error": "파싱 실패: 유효하지 않은 파일: 암호 오류: 지원하지 않는 암호화 방식: EncryptVersion 0 (지원: 4)",
+      "exitClass": "runtime",
+      "schemaVersion": "1.0",
+      "source": "40년 기관 생산 발간물/5. 수탁연구/2011년 수탁과제 최종보고서(31건)/I11-44_한.중 기초_홍성범/최종보고서-중국_Top_Class_핵심인력_DB2.hwp",
+      "untrustedContent": false,
+      "untrustedFields": []
+    }
+  ],
+  "elapsedSeconds": 51.873,
+  "pageCountSemantics": "rhwp layout-engine re-pagination estimate",
+  "textCharCountSemantics": "Unicode character count including whitespace"
+}
