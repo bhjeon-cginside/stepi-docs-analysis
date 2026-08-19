@@ -7,52 +7,166 @@
   ],
   "documents": [
     {
-      "title": "1. 정책연구 · 1989 · 첫 페이지",
+      "title": "1. 정책연구 · 1989",
       "group": "문서유형 대표",
-      "original": "assets/01_original.png",
-      "overlay": "assets/01_layout.png",
-      "markdown": "assets/01_result.md",
-      "boxes": 4
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/01_p001_original.png",
+          "overlay": "assets/01_p001_layout.png",
+          "markdown": "assets/01_p001_result.md",
+          "boxes": 4
+        },
+        {
+          "page": 116,
+          "original": "assets/01_p116_original.png",
+          "overlay": "assets/01_p116_layout.png",
+          "markdown": "assets/01_p116_result.md",
+          "boxes": 24
+        },
+        {
+          "page": 232,
+          "original": "assets/01_p232_original.png",
+          "overlay": "assets/01_p232_layout.png",
+          "markdown": "assets/01_p232_result.md",
+          "boxes": 18
+        }
+      ]
     },
     {
-      "title": "5. 수탁연구 · 1999 · 첫 페이지",
+      "title": "5. 수탁연구 · 1999",
       "group": "문서유형 대표",
-      "original": "assets/02_original.png",
-      "overlay": "assets/02_layout.png",
-      "markdown": "assets/02_result.md",
-      "boxes": 4
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/02_p001_original.png",
+          "overlay": "assets/02_p001_layout.png",
+          "markdown": "assets/02_p001_result.md",
+          "boxes": 4
+        },
+        {
+          "page": 86,
+          "original": "assets/02_p086_original.png",
+          "overlay": "assets/02_p086_layout.png",
+          "markdown": "assets/02_p086_result.md",
+          "boxes": 5
+        },
+        {
+          "page": 171,
+          "original": "assets/02_p171_original.png",
+          "overlay": "assets/02_p171_layout.png",
+          "markdown": "assets/02_p171_result.md",
+          "boxes": 3
+        }
+      ]
     },
     {
-      "title": "8. 과학기술정책 Brief · 2022 · 첫 페이지",
+      "title": "8. 과학기술정책 Brief · 2022",
       "group": "문서유형 대표",
-      "original": "assets/03_original.png",
-      "overlay": "assets/03_layout.png",
-      "markdown": "assets/03_result.md",
-      "boxes": 17
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/03_p001_original.png",
+          "overlay": "assets/03_p001_layout.png",
+          "markdown": "assets/03_p001_result.md",
+          "boxes": 17
+        },
+        {
+          "page": 2,
+          "original": "assets/03_p002_original.png",
+          "overlay": "assets/03_p002_layout.png",
+          "markdown": "assets/03_p002_result.md",
+          "boxes": 11
+        },
+        {
+          "page": 4,
+          "original": "assets/03_p004_original.png",
+          "overlay": "assets/03_p004_layout.png",
+          "markdown": "assets/03_p004_result.md",
+          "boxes": 17
+        }
+      ]
     },
     {
-      "title": "13. 동향과 이슈 · 2005 · 첫 페이지",
+      "title": "13. 동향과 이슈 · 2005",
       "group": "문서유형 대표",
-      "original": "assets/04_original.png",
-      "overlay": "assets/04_layout.png",
-      "markdown": "assets/04_result.md",
-      "boxes": 12
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/04_p001_original.png",
+          "overlay": "assets/04_p001_layout.png",
+          "markdown": "assets/04_p001_result.md",
+          "boxes": 12
+        },
+        {
+          "page": 12,
+          "original": "assets/04_p012_original.png",
+          "overlay": "assets/04_p012_layout.png",
+          "markdown": "assets/04_p012_result.md",
+          "boxes": 30
+        },
+        {
+          "page": 24,
+          "original": "assets/04_p024_original.png",
+          "overlay": "assets/04_p024_layout.png",
+          "markdown": "assets/04_p024_result.md",
+          "boxes": 25
+        }
+      ]
     },
     {
-      "title": "15. Working Paper · 2008 · 첫 페이지",
+      "title": "15. Working Paper · 2008",
       "group": "문서유형 대표",
-      "original": "assets/05_original.png",
-      "overlay": "assets/05_layout.png",
-      "markdown": "assets/05_result.md",
-      "boxes": 7
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/05_p001_original.png",
+          "overlay": "assets/05_p001_layout.png",
+          "markdown": "assets/05_p001_result.md",
+          "boxes": 7
+        },
+        {
+          "page": 6,
+          "original": "assets/05_p006_original.png",
+          "overlay": "assets/05_p006_layout.png",
+          "markdown": "assets/05_p006_result.md",
+          "boxes": 7
+        },
+        {
+          "page": 13,
+          "original": "assets/05_p013_original.png",
+          "overlay": "assets/05_p013_layout.png",
+          "markdown": "assets/05_p013_result.md",
+          "boxes": 9
+        }
+      ]
     },
     {
-      "title": "5. 수탁연구 · 2001 · 첫 페이지",
-      "group": "내부압축 PDF 예시",
-      "original": "assets/06_original.png",
-      "overlay": "assets/06_layout.png",
-      "markdown": "assets/06_result.md",
-      "boxes": 2
+      "title": "1. 정책연구 · 2008",
+      "group": "압축파일 내 문서",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/06_p001_original.png",
+          "overlay": "assets/06_p001_layout.png",
+          "markdown": "assets/06_p001_result.md",
+          "boxes": 1
+        },
+        {
+          "page": 128,
+          "original": "assets/06_p128_original.png",
+          "overlay": "assets/06_p128_layout.png",
+          "markdown": "assets/06_p128_result.md",
+          "boxes": 7
+        },
+        {
+          "page": 255,
+          "original": "assets/06_p255_original.png",
+          "overlay": "assets/06_p255_layout.png",
+          "markdown": "assets/06_p255_result.md",
+          "boxes": 10
+        }
+      ]
     }
   ]
 }
