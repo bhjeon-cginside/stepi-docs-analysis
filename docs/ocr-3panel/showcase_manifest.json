@@ -167,6 +167,141 @@
           "boxes": 10
         }
       ]
+    },
+    {
+      "title": "6. 예비타당성조사 · 2019",
+      "group": "문서유형 대표",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/07_p001_original.png",
+          "overlay": "assets/07_p001_layout.png",
+          "markdown": "assets/07_p001_result.md",
+          "boxes": 4
+        },
+        {
+          "page": 80,
+          "original": "assets/07_p080_original.png",
+          "overlay": "assets/07_p080_layout.png",
+          "markdown": "assets/07_p080_result.md",
+          "boxes": 8
+        },
+        {
+          "page": 159,
+          "original": "assets/07_p159_original.png",
+          "overlay": "assets/07_p159_layout.png",
+          "markdown": "assets/07_p159_result.md",
+          "boxes": 5
+        }
+      ]
+    },
+    {
+      "title": "7. STEPI Insight · 2007",
+      "group": "문서유형 대표",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/08_p001_original.png",
+          "overlay": "assets/08_p001_layout.png",
+          "markdown": "assets/08_p001_result.md",
+          "boxes": 1
+        },
+        {
+          "page": 12,
+          "original": "assets/08_p012_original.png",
+          "overlay": "assets/08_p012_layout.png",
+          "markdown": "assets/08_p012_result.md",
+          "boxes": 4
+        },
+        {
+          "page": 23,
+          "original": "assets/08_p023_original.png",
+          "overlay": "assets/08_p023_layout.png",
+          "markdown": "assets/08_p023_result.md",
+          "boxes": 5
+        }
+      ]
+    },
+    {
+      "title": "11. STI Policy Review · 2022",
+      "group": "문서유형 대표",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/09_p001_original.png",
+          "overlay": "assets/09_p001_layout.png",
+          "markdown": "assets/09_p001_result.md",
+          "boxes": 5
+        },
+        {
+          "page": 43,
+          "original": "assets/09_p043_original.png",
+          "overlay": "assets/09_p043_layout.png",
+          "markdown": "assets/09_p043_result.md",
+          "boxes": 18
+        },
+        {
+          "page": 86,
+          "original": "assets/09_p086_original.png",
+          "overlay": "assets/09_p086_layout.png",
+          "markdown": "assets/09_p086_result.md",
+          "boxes": 18
+        }
+      ]
+    },
+    {
+      "title": "16. SPREC Insight · 2022",
+      "group": "문서유형 대표",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/10_p001_original.png",
+          "overlay": "assets/10_p001_layout.png",
+          "markdown": "assets/10_p001_result.md",
+          "boxes": 37
+        },
+        {
+          "page": 8,
+          "original": "assets/10_p008_original.png",
+          "overlay": "assets/10_p008_layout.png",
+          "markdown": "assets/10_p008_result.md",
+          "boxes": 15
+        },
+        {
+          "page": 16,
+          "original": "assets/10_p016_original.png",
+          "overlay": "assets/10_p016_layout.png",
+          "markdown": "assets/10_p016_result.md",
+          "boxes": 11
+        }
+      ]
+    },
+    {
+      "title": "18. (학술지) 과학기술정책 · 2018",
+      "group": "문서유형 대표",
+      "pages": [
+        {
+          "page": 1,
+          "original": "assets/11_p001_original.png",
+          "overlay": "assets/11_p001_layout.png",
+          "markdown": "assets/11_p001_result.md",
+          "boxes": 3
+        },
+        {
+          "page": 77,
+          "original": "assets/11_p077_original.png",
+          "overlay": "assets/11_p077_layout.png",
+          "markdown": "assets/11_p077_result.md",
+          "boxes": 26
+        },
+        {
+          "page": 154,
+          "original": "assets/11_p154_original.png",
+          "overlay": "assets/11_p154_layout.png",
+          "markdown": "assets/11_p154_result.md",
+          "boxes": 5
+        }
+      ]
     }
   ]
 }
